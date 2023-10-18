@@ -58,7 +58,7 @@ Cnsenti統計情緒形容詞的分類參考了Dr. Paul Ekman於1972年在《Univ
 
 ## Other
 
-* [PDF file](https://drive.google.com/file/d/1cHcoVKRSlAyDs-Dvuw_UXaGYZASAaI5C/view?usp=share_link)
+* [PDFfile(written report)](https://drive.google.com/file/d/1cHcoVKRSlAyDs-Dvuw_UXaGYZASAaI5C/view?usp=share_link)
 * [Canva(poster)](https://www.canva.com/design/DAFSHKhJ6FQ/vrOyeJL0jl9if-jniDTHjA/view?utm_content=DAFSHKhJ6FQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 * [Canva(PPT)](https://www.canva.com/design/DAFSw4BGxg8/jMHqPqXv83535WT89XUnVg/view?utm_content=DAFSw4BGxg8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
